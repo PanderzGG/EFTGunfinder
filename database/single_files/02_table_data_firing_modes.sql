@@ -1,0 +1,1 @@
+INSERT INTO firing_modes(firing_mode) VALUES ('Single'),('Single (Bolt-Action)'),('2-Round Burst'),('3-Round Burst'),('Full-Auto');
