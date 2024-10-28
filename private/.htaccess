@@ -1,3 +1,1 @@
-# Verhindert den Zugriff auf alle Dateien in diesem Ordner
-Order Deny,Allow
 Deny from all
